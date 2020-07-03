@@ -87,20 +87,13 @@ You can download them in here: https://drive.google.com/drive/folders/1hhn2-ccdg
 ![mainfeature4](https://user-images.githubusercontent.com/44702454/86477566-a849dd80-bd83-11ea-99ce-cbcc2f99d640.png)
 
 ## Laser-cutted customized appearance
-I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on certain place's condition.   
+I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on certain place's condition. In my case,'.DXF file' is needed, if you trying to use laser cutting machine @ IDEA FACTORY.
 
-In my case,'.DXF file' is needed, if you trying to use laser cutting machine @ IDEA FACTORY.
+There were lot of ways to make .DXF file. If you are not good at manipulating tool such as AutoCAD,Fusion360 from Autodesk.I recommend very usefull website. https://en.makercase.com/#/ This welsite provide basic model as .DXF file. still, it needs a little modification, but You can make .DXF file easier.
+I expecially consider that Jetbot should attached with lots of lines. so that I made a hole for lines.
+(I attached `Cheersbot(ProductDrawing).dxf` file)
+once, you make .DXF file bring it to laser cutting machine.and Then, run the machine.
 
-There were lot of ways to make .DXF file.
-
-If you are a novice to manipulating tool such as AutoCAD,Fusion360 from Autodesk.
-
-I recommend very usefull website. https://en.makercase.com/#/ This welsite provide basic model as .DXF file.
-
-still, it needs a little modification, but You can make .DXF file easier.
-
-once, you make .DXF file bring it to laser cutting machine.
-
-and Then, run the machine.
+Then, you will get a seperate MDF part. Glue the parts with super glue. 
 
 
