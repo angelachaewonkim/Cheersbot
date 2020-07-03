@@ -12,11 +12,15 @@ We focus on the problem that drinking through video call can fills visual and au
 ## Installation
 1. Please install smbus and FaBoAxis_MPU9250
 In your terminal, make sure you have pip3 installled.
+
 `sudo apt-get install python3-pip`
 Now clone the github site and install smbus2.
+
 `sudo git clone https://github.com/FaBoPlatform/FaBo9AXIS-MPU9250-Python.git`
+
 `pip3 install smbus2`
 Install the FaBo9Axis_MPU9250
+
 `pip3 install FaBo9Axis_MPU9250`
 
 Refer to the following link: https://brisbaneroboticsclub.id.au/install-keystudio-i2c-shield-v1/
