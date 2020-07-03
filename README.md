@@ -20,8 +20,7 @@ We focus on the problem that drinking through video call can fills visual and au
 + Speaker (for auditory interaction)
 + Glass (for physical interaction)
 + IMU Sensor (for collecting accelerometer data)
-
-### Software Components
++ Medium-density fibreboard(MDF) (for Laser-cutted customized appearance)
 
 ## Installation
 1. Please install smbus and FaBoAxis_MPU9250
