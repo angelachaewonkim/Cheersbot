@@ -75,11 +75,8 @@ You can download them in here: https://drive.google.com/drive/folders/1hhn2-ccdg
 ![image](https://user-images.githubusercontent.com/44702454/86480632-55732480-bd89-11ea-98f5-0b8ee45d7015.png)
 ### Four Main feature
 1.'Cheers' Interaction
-
 2.Voice Recognition & Feedback
-
 3.Let me know how much I drink
-
 4.Reject cheers if the user drinkd too much
 
 ![mainfeature1](https://user-images.githubusercontent.com/44702454/86477443-69b42300-bd83-11ea-9d7e-5a8479e8b8e1.png)
