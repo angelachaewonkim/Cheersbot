@@ -1,6 +1,9 @@
 # Cheersbot
 Cheers with Cheersbot!
 
+### Watch the Demo video
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 ## introduction
 After the Covid 19 Pandemic, people cannot drink outside. People are looking for alternatives such as 'Drinking with friends through video-call'. This new type of drinking culture is beginning to trend.
 But-Dr. Priscilla Martinez, from Alcohol Research Group  says, "It is important to know your drinking status." The doctor said that to avoid side effects such as alcoholism, it is necessary to observe the changes in drinking time, reason, and amount of alcohol. 
@@ -8,6 +11,12 @@ Much have changed a lot from our daily lives, and the interaction between people
 Our team thought that enjoying time wisely with fun interaction is what people need.
 
 We focus on the problem that drinking through video call can fills visual and auditory elements, but not physical interaction. Also, since you are drinking alone, it is important to know your drinking status.
+
+## Pre-requirement
+### Hardware Components
+
+
+### Software Components
 
 ## Installation
 1. Please install smbus and FaBoAxis_MPU9250
