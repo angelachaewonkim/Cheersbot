@@ -16,12 +16,11 @@ We focus on the problem that drinking through video call can fills visual and au
 ## Pre-requirement
 ### Hardware Components
 ![cheersbot_component](https://user-images.githubusercontent.com/44702454/86465579-e38ce200-bd6c-11ea-936a-edb10434db80.png)
-*Jetbot
++Jetbot
++Speaker (for auditory interaction)
++Glass (for physical interaction)
++IMU Sensor (for collecting accelerometer data)
 
-*Speaker (for auditory interaction)
-
-*Glass (for physical interaction)
-*IMU Sensor (for collecting accelerometer data)
 ### Software Components
 
 ## Installation
