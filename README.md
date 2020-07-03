@@ -12,4 +12,5 @@ We focus on the problem that drinking through video call can fills visual and au
 ## Installation
 1. Please install smbus and FaBoAxis_MPU9250
 In your terminal, make sure you have pip3 installled.
-'sudo apt-get install python3-pip`
+
+`sudo apt-get install python3-pip`
