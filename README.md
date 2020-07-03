@@ -1,5 +1,5 @@
 # Cheersbot
-Cheers with Cheersbot!
+Let's Cheers with Cheersbot!
 
 ### Watch the Demo video
 [![Watch the video](https://img.youtube.com/vi/7Yft4uTX8Ms/maxresdefault.jpg)](https://youtu.be/7Yft4uTX8Ms)
