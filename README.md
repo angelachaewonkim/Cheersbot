@@ -1,0 +1,2 @@
+# Cheersbot
+Cheers with Cheersbot!
