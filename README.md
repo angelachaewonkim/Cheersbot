@@ -22,6 +22,7 @@ We focus on the problem that drinking through video call can fills visual and au
 + IMU Sensor (for collecting accelerometer data)
 + Medium-density fibreboard(MDF) (for Laser-cutted customized appearance)
 
+### Software Components
 ## Installation
 1. Please install smbus and FaBoAxis_MPU9250
 In your terminal, make sure you have pip3 installled.
