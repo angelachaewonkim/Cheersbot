@@ -22,8 +22,9 @@ We focus on the problem that drinking through video call can fills visual and au
 + IMU Sensor (for collecting accelerometer data)
 + Medium-density fibreboard(MDF) (for Laser-cutted customized appearance)
 
-### Software Components
-## Installation
+### Software setup
+
+#### Installation
 1. Please install smbus and FaBoAxis_MPU9250
 In your terminal, make sure you have pip3 installled.
 
@@ -40,7 +41,7 @@ pip3 install smbus2 <code>
 
 Install the FaBo9Axis_MPU9250
 
-`pip3 install FaBo9Axis_MPU9250`
+```pip3 install FaBo9Axis_MPU9250```
 
 Refer to the following link: https://brisbaneroboticsclub.id.au/install-keystudio-i2c-shield-v1/
 
@@ -51,7 +52,7 @@ You can do it in following link: https://snowboy.kitt.ai/
 We made two models: howmuch.pmdl(using 'How much cheers?') and zzanhalgga(using 'Shall we cheers?')
 Download the pmdl model and store them in the path which contains your python notebook.
 
-## Download
+#### Download
 1. Download the wav files and store them at the path which contains your notebook.
 You can download them in here: https://drive.google.com/drive/folders/1hhn2-ccdgHKmKi6KiMCy6lB9r9NzFBiP?usp=sharing
 
