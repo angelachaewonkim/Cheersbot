@@ -14,7 +14,7 @@ Our team thought that enjoying time wisely with fun interaction is what people n
 We focus on the problem that drinking through video call can fills visual and auditory elements, but not physical interaction. Also, since you are drinking alone, it is important to know your drinking status.
 
 ## Pre-requirement
-### Files needed for AUDIO outout & Voice recognition
+### Files needed for audio output & Voice recognition
 #### How we get '.wav' file 
 1. visit https://clova.ai/voice
 2. you can record sentence with AI voice. record the sentence for '1zzan.mp3', '2zzan.mp3'and so on.
@@ -98,7 +98,7 @@ You can download them in here: https://drive.google.com/drive/folders/1hhn2-ccdg
 
 ## Laser-cutted customized appearance
 I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on certain place's condition. In my case,'.DXF file' is needed, if you trying to use laser cutting machine @ IDEA FACTORY.
-
+![KakaoTalk_20200703_234655791_13](https://user-images.githubusercontent.com/44702454/86485100-cff47200-bd92-11ea-998d-e77e128b2677.jpg)
 There were lot of ways to make .DXF file. If you are not good at manipulating tool such as AutoCAD,Fusion360 from Autodesk.I recommend very usefull website. https://en.makercase.com/#/ This welsite provide basic model as .DXF file. still, it needs a little modification, but You can make .DXF file easier.
 I expecially consider that Jetbot should attached with lots of lines. so that I made a hole for lines.
 (I attached `Cheersbot(ProductDrawing).dxf` file)
