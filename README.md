@@ -41,7 +41,9 @@ pip3 install smbus2 <code>
 
 Install the FaBo9Axis_MPU9250
 
-```pip3 install FaBo9Axis_MPU9250```
+```
+pip3 install FaBo9Axis_MPU9250
+```
 
 Refer to the following link: https://brisbaneroboticsclub.id.au/install-keystudio-i2c-shield-v1/
 
