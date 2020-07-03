@@ -16,11 +16,10 @@ In your terminal, make sure you have pip3 installled.
 `sudo apt-get install python3-pip`
 Now clone the github site and install smbus2.
 
-<pre> sudo git clone https://github.com/FaBoPlatform/FaBo9AXIS-MPU9250-Python.git
+`sudo git clone https://github.com/FaBoPlatform/FaBo9AXIS-MPU9250-Python.git
+pip3 install smbus2 <code>`
 
-pip3 install smbus2 <code>
 Install the FaBo9Axis_MPU9250
-
 `pip3 install FaBo9Axis_MPU9250`
 
 Refer to the following link: https://brisbaneroboticsclub.id.au/install-keystudio-i2c-shield-v1/
