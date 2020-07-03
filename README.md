@@ -19,9 +19,10 @@ sudo apt-get install python3-pip
 
 Now clone the github site and install smbus2.
 
-`sudo git clone https://github.com/FaBoPlatform/FaBo9AXIS-MPU9250-Python.git`
-
-`pip3 install smbus2 <code>`
+```python
+sudo git clone https://github.com/FaBoPlatform/FaBo9AXIS-MPU9250-Python.git
+pip3 install smbus2 <code>
+```
 
 Install the FaBo9Axis_MPU9250
 
