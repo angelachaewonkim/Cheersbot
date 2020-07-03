@@ -14,6 +14,20 @@ Our team thought that enjoying time wisely with fun interaction is what people n
 We focus on the problem that drinking through video call can fills visual and auditory elements, but not physical interaction. Also, since you are drinking alone, it is important to know your drinking status.
 
 ## Pre-requirement
+### Files needed for AUDIO outout & Voice recognition
+#### How we get '.wav' file 
+1. visit https://clova.ai/voice
+2. you can record sentence with AI voice. record the sentence for '1zzan.mp3', '2zzan.mp3'and so on.
+3. If you get .mp3 file, visit the https://online-audio-converter.com/ko/ and convert .mp3 file to .wav file
+
+#### How we get '.pmdl' file
+snowboy provides a personal model. The process is very simple, like this:
+
+1. visit the url: https://snowboy.kitt.ai/
+2. Login in with social media
+3. click the Create Hotword and set your Hotword like "how much glasses I drink?" and record your voice
+4. Test the model and click save and download button. Then you can get pmdl (personal model) files
+
 ### Hardware Components
 ![cheersbot_component](https://user-images.githubusercontent.com/44702454/86465579-e38ce200-bd6c-11ea-936a-edb10434db80.png)
 + Jetbot
@@ -23,10 +37,6 @@ We focus on the problem that drinking through video call can fills visual and au
 + Medium-density fibreboard(MDF) (for Laser-cutted customized appearance)
 
 ### Software setup
-#### How we get '.wav' file 
-
-#### How we get '.pmdl' file
-
 #### Installation
 1. Please install smbus and FaBoAxis_MPU9250
 In your terminal, make sure you have pip3 installled.
