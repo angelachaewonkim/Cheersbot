@@ -70,7 +70,7 @@ You can download them in here: https://drive.google.com/drive/folders/1hhn2-ccdg
 	5. If Cheersbot doesn't stop, excute last cell.
 
 ## Four Main feature
-![mainfeature1](https://user-images.githubusercontent.com/44702454/86477443-69b42300-bd83-11ea-9d7e-5a8479e8b8e1.png)
+![mainfeature1](https://user-images.githubusercontent.com/44702454/86477443-69b42300-bd83-11ea-9d7e-5a8479e8b8e1.png){: width="50" height="50"}
 
 'kjdhf
 
