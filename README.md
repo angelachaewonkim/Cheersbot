@@ -37,6 +37,19 @@ snowboy provides a personal model. The process is very simple, like this:
 + Medium-density fibreboard(MDF) (for Laser-cutted customized appearance)
 
 ### Software setup
+### How to download trianed model
+you need to download COCO-trained models
+To detect the hand with various types of glass, we used pre-trained neural network pre-trained on the COCO dataset.
+COCO-dataset is specialized in large-scaled object detection. It includes:
+index 0- Person
+index 47- Cup
+If a hand with glass is in front of camera, then this model can detect it as index 0 or 47.
+You can download the pre-trained engine in here: https://drive.google.com/file/d/1eZsGracgHo5zSakGMHcW2ET19UtLfDKf/view?usp=sharing
+
+The model is made from the ObjectDetector API(from TensorFlow).
+Once the model is built, NVIDIA TensorRT can optimize it: real-time execution is capable on Jetson Nano.
+Using this model, we don't have to train and optimize the model.
+
 #### Installation
 1. Please install smbus and FaBoAxis_MPU9250
 In your terminal, make sure you have pip3 installled.
