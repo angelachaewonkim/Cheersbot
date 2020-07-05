@@ -4,7 +4,7 @@ Let's Cheers with Cheersbot!
 ### Watch the Demo video & Slide
 [![Video Label](http://img.youtube.com/vi/7Yft4uTX8Ms/0.jpg)](https://youtu.be/7Yft4uTX8Ms=0s)
 
-[Link to Slide](https://docs.google.com/presentation/d/1DhWW_3buYzDjDduUoTDXJvPRc6uU8FgfSCC8IZCqkdQ/edit?usp=sharing){: target="_blank"}
+[Link to Slide](https://docs.google.com/presentation/d/1DhWW_3buYzDjDduUoTDXJvPRc6uU8FgfSCC8IZCqkdQ/edit?usp=sharing)
 
 ## introduction
 After the Covid 19 Pandemic, people cannot drink outside. People are looking for alternatives such as 'Drinking with friends through video-call'. This new type of drinking culture is beginning to trend.
