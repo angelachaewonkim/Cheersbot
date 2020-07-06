@@ -48,10 +48,11 @@ It includes:
 + index 0- Person
 + index 47- Cup
 + If a hand with glass is in front of camera, then this model can detect it as index 0 or 47.
+
 You can download the pre-trained engine in [here](https://drive.google.com/file/d/1eZsGracgHo5zSakGMHcW2ET19UtLfDKf/view?usp=sharing)
 
 The model is made from the ObjectDetector API(from TensorFlow).
-Once the model is built, NVIDIA TensorRT can optimize it: real-time execution is capable on Jetson Nano.
+Once the model is built, NVIDIA TensorRT can optimize it: real-time execution is capable on Jetson Nano. TensorRT is kind of SDK & Toolkit. It provides inference optimiser and runtime engine, so without expertise, you can conduct high performance inferencing.
 Using this model, we don't have to train and optimize the model.
 
 #### Installation
