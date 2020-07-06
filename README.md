@@ -17,14 +17,15 @@ We focus on the problem that drinking through video call can fills visual and au
 ## Pre-requirement
 ### Files needed for audio output & Voice recognition
 #### How we get '.wav' file 
-1. visit https://clova.ai/voice
+1. visit [NAVER CLOVA](https://clova.ai/voice)
 2. you can record sentence with AI voice. record the sentence for '1zzan.mp3', '2zzan.mp3'and so on.
-3. If you get .mp3 file, visit the https://online-audio-converter.com/ko/ and convert .mp3 file to .wav file
+3. If you get .mp3 file, visit the [audio converter website](https://online-audio-converter.com/ko/) to convert .mp3 file to .wav file.
+4. Open your file and click the wav button and '변환(convert)'button in order.
 
 #### How we get '.pmdl' file
 snowboy provides a personal model. The process is very simple, like this:
 
-1. visit the url: https://snowboy.kitt.ai/
+1. visit the [Snowboy website](https://snowboy.kitt.ai/)
 2. Login in with social media
 3. click the Create Hotword and set your Hotword like "how much glasses I drink?" and record your voice
 4. Test the model and click save and download button. Then you can get pmdl (personal model) files
@@ -47,7 +48,7 @@ It includes:
 + index 0- Person
 + index 47- Cup
 + If a hand with glass is in front of camera, then this model can detect it as index 0 or 47.
-You can download the pre-trained engine in here: https://drive.google.com/file/d/1eZsGracgHo5zSakGMHcW2ET19UtLfDKf/view?usp=sharing
+You can download the pre-trained engine in [here](https://drive.google.com/file/d/1eZsGracgHo5zSakGMHcW2ET19UtLfDKf/view?usp=sharing)
 
 The model is made from the ObjectDetector API(from TensorFlow).
 Once the model is built, NVIDIA TensorRT can optimize it: real-time execution is capable on Jetson Nano.
@@ -85,9 +86,9 @@ Download the pmdl model and store them in the path which contains your python no
 
 #### Download
 1. Download the wav files and store them at the path which contains your notebook.
-You can download them in here: https://drive.google.com/drive/folders/1hhn2-ccdgHKmKi6KiMCy6lB9r9NzFBiP?usp=sharing
+You can download them in [here](https://drive.google.com/drive/folders/1hhn2-ccdgHKmKi6KiMCy6lB9r9NzFBiP?usp=sharing)
 
-2. Download the 'ssd_mobilenet_v2_coco.engine' dataset(You can easily find it in Google.) and store it at the path which contains your notebook.
+2. Download the 'ssd_mobilenet_v2_coco.engine' dataset(You can easily find it in Google) and store it at the path which contains your notebook.
 
 ## How to operate
 1. Except last two cells, all of the cells above import the required modules and define the function.
@@ -116,7 +117,8 @@ You can download them in here: https://drive.google.com/drive/folders/1hhn2-ccdg
 I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on certain place's condition. In my case,'.DXF file' is needed, if you trying to use laser cutting machine @ IDEA FACTORY.
 ![KakaoTalk_20200703_234655791_13](https://user-images.githubusercontent.com/44702454/86485100-cff47200-bd92-11ea-998d-e77e128b2677.jpg)
 
-There were lot of ways to make .DXF file. If you are not good at manipulating tool such as AutoCAD,Fusion360 from Autodesk.I recommend very usefull website. https://en.makercase.com/#/ This welsite provide basic model as .DXF file. still, it needs a little modification, but You can make .DXF file easier.
+There were lot of ways to make .DXF file. If you are not good at manipulating tool such as AutoCAD,Fusion360 from Autodesk.
+I recommend very usefull [website.](https://en.makercase.com/#/) This welsite provide basic model as .DXF file. still, it needs a little modification, but You can make .DXF file easier.
 I expecially consider that Jetbot should attached with lots of lines. so that I made a hole for lines.
 (I attached `Cheersbot(ProductDrawing).dxf` file)
 once, you make .DXF file bring it to laser cutting machine.and Then, run the machine.
