@@ -75,10 +75,10 @@ Install the FaBo9Axis_MPU9250
 pip3 install FaBo9Axis_MPU9250
 ```
 
-Refer to the following link: https://brisbaneroboticsclub.id.au/install-keystudio-i2c-shield-v1/
+Refer to the following [link](https://brisbaneroboticsclub.id.au/install-keystudio-i2c-shield-v1/)
 
 2. Install the snowboy and make your own pmdl model
-You can do it in following link: https://snowboy.kitt.ai/ 
+You can do it in following [Snowboy website](https://snowboy.kitt.ai/) 
 (You have to register and make your own id)
 
 We made two models: howmuch.pmdl(using 'How much cheers?') and zzanhalgga(using 'Shall we cheers?')
