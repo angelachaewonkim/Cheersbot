@@ -109,9 +109,9 @@ You can download them in [here](https://drive.google.com/drive/folders/1hhn2-ccd
 4. Reject cheers if the user drinkd too much
 
 
-<img src = "https://user-images.githubusercontent.com/44702454/86477443-69b42300-bd83-11ea-9d7e-5a8479e8b8e1.png" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86477490-7fc1e380-bd83-11ea-9535-67d6fa3e4c94.png" width="500px">
+<img src = "https://user-images.githubusercontent.com/44702454/86585474-7cb43680-bfc1-11ea-9a18-9b6d628acc79.png" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86477490-7fc1e380-bd83-11ea-9535-67d6fa3e4c94.png" width="500px">
 <img src = "https://user-images.githubusercontent.com/44702454/86477516-8a7c7880-bd83-11ea-8984-2866039661e9.png" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86477533-9405e080-bd83-11ea-8440-4bd8b2112f6d.png" width="500px">
-<img src = "https://user-images.githubusercontent.com/44702454/86477550-9f590c00-bd83-11ea-8136-dc7f1abef642.png" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86477566-a849dd80-bd83-11ea-99ce-cbcc2f99d640.png" width="500px">
+<img src = "https://user-images.githubusercontent.com/44702454/86477550-9f590c00-bd83-11ea-8136-dc7f1abef642.png" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86585550-98b7d800-bfc1-11ea-9393-29447a64a1ed.png" width="500px">
 
 ## Laser-cutted customized appearance
 I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on a certain place's condition. In my case,'.DXF file' is needed if you trying to use a laser cutting machine @ IDEA FACTORY.
