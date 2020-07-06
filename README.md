@@ -113,8 +113,8 @@ You can download them in [here](https://drive.google.com/drive/folders/1hhn2-ccd
 <img src = "https://user-images.githubusercontent.com/44702454/86477516-8a7c7880-bd83-11ea-8984-2866039661e9.png" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86477533-9405e080-bd83-11ea-8440-4bd8b2112f6d.png" width="500px">
 <img src = "https://user-images.githubusercontent.com/44702454/86477550-9f590c00-bd83-11ea-8136-dc7f1abef642.png" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86585550-98b7d800-bfc1-11ea-9393-29447a64a1ed.png" width="500px">
 
-## Laser-cutted customized appearance
-I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on a certain place's condition. In my case,'.DXF file' is needed if you trying to use a laser cutting machine @ IDEA FACTORY.
+## Laser-cut customized appearance
+I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is dependent on a certain place's condition. In my case,'.DXF file' is needed if you trying to use a laser cutting machine @ IDEA FACTORY.
 
 There were a lot of ways to make a .DXF file. If you are not good at manipulating tools such as AutoCAD, Fusion360 from Autodesk.
 I recommend a very useful [website.](https://en.makercase.com/#/) This website provides a basic model as a **.DXF file.** still, it needs a little modification, but You can make **.DXF file** easier.
@@ -123,13 +123,13 @@ I recommend a very useful [website.](https://en.makercase.com/#/) This website p
 + Choose other options below.
 + Click the Download Box Plans and then a new pop up window will be opened
 + Check whether the drawing is what expected.
-+ Every thing Okay, then click the Download DXF
++ Everything Okay, then click the Download DXF
 + You will get the .DXF file within a few minutes!
 + If you want to modify, open **.DXF file** at AutoCAD or Fusion360 and then modify it as you want.
 
 <img src = "https://user-images.githubusercontent.com/44702454/86588581-eedb4a00-bfc6-11ea-93c2-fd6948b004e2.jpg" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86588437-a3c13700-bfc6-11ea-884b-f7834560fd69.jpg" width="500px">
 
-I especially consider that Jetbot should be attached with lots of lines and it carries glass. so that I made two hole for lines and glass.      
+I especially consider that Jetbot should be attached with lots of lines and it carries glass. so that I made two-hole for lines and glass.      
 (I attached `Cheersbot(ProductDrawing).dxf` file. You can check exact values for two holes)      
-Once, you make **.DXF file** bring it to laser cutting machine. and Then, run the machine.     
+Once, you make **.DXF file** bring it to the laser cutting machine. and Then, run **the laser cutting machine.**     
 Then, you will get a separate MDF part. Glue the parts with super glue. 
