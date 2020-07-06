@@ -54,8 +54,7 @@ You can download the pre-trained engine in [here](https://drive.google.com/file/
 The model is made from the ObjectDetector API(from TensorFlow).
 Once the model is built, NVIDIA TensorRT can optimize it: real-time execution is capable on Jetson Nano. 
 
-**TensorRT is kind of SDK & Toolkit.*** It provides inference optimiser and runtime engine, so without expertise, you can conduct high performance inferencing.
-Using this model, we don't have to train and optimize the model.
+**TensorRT is kind of SDK & Toolkit.**  It provides an inference optimizer and runtime engine, so without expertise, you can conduct high-performance inferencing. Using this model, we don't have to train and optimize the model.
 
 #### Installation
 1. Please install smbus and FaBoAxis_MPU9250
