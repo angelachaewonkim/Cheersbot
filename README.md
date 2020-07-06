@@ -120,12 +120,12 @@ I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutori
 There were a lot of ways to make a .DXF file. If you are not good at manipulating tools such as AutoCAD, Fusion360 from Autodesk.
 I recommend a very useful [website.](https://en.makercase.com/#/) This website provides a basic model as a **.DXF file.** still, it needs a little modification, but You can make **.DXF file** easier.
 + Choose the Box type (Basic Box, Polygon Box, Kerf Bent Box)
-+ Set the **Units, Width, Height, Depth** as you measured before or it could be the **sides, size, Inside Diameters etc.**(it's totally different from the box type)
-+ Choose another options below.  
-+ Click the **Download Box Plans** and then new pop up window will be opened 
++ Set the Units, Width, Height, Depth as you measured before or it could be the sides, size, Inside Diameters, etc.(it's different from the box type)
++ Choose other options below.
++ Click the Download Box Plans and then a new pop up window will be opened
 + Check whether the drawing is what expected.
-+ Every things Okay, then click the **Download DXF**
-+ **You will get the .DXF file within few minutes!**
++ Every thing Okay, then click the Download DXF
++ You will get the .DXF file within a few minutes!
 
 I especially consider that Jetbot should be attached with lots of lines. so that I made a hole for lines.
 (I attached `Cheersbot(ProductDrawing).dxf` file)
