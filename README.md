@@ -41,9 +41,11 @@ snowboy provides a personal model. The process is very simple, like this:
 ### How to download trianed model
 you need to download COCO-trained models
 To detect the hand with various types of glass, we used pre-trained neural network pre-trained on the COCO dataset.
-COCO-dataset is specialized in large-scaled object detection. It includes:
-index 0- Person
-index 47- Cup
+COCO-dataset is specialized in large-scaled object detection. 
+
+It includes:
++ index 0- Person
++ index 47- Cup
 If a hand with glass is in front of camera, then this model can detect it as index 0 or 47.
 You can download the pre-trained engine in here: https://drive.google.com/file/d/1eZsGracgHo5zSakGMHcW2ET19UtLfDKf/view?usp=sharing
 
