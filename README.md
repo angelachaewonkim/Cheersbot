@@ -17,8 +17,8 @@ We focus on the problem that drinking through video call can fills visual and au
 ## Pre-requirement
 ### Files needed for audio output & Voice recognition
 #### How we get '.wav' file 
-1. visit [NAVER CLOVA](https://clova.ai/voice)
-2. you can record sentence with AI voice. record the sentence for '1zzan.mp3', '2zzan.mp3'and so on.
+1. Visit [NAVER CLOVA](https://clova.ai/voice)
+2. You can record sentence with AI voice. record the sentence for '1zzan.mp3', '2zzan.mp3'and so on.
 3. If you get .mp3 file, visit the [audio converter website](https://online-audio-converter.com/ko/) to convert .mp3 file to .wav file.
 4. Open your file and click the wav button and '변환(convert)'button in order.
 
@@ -27,7 +27,7 @@ snowboy provides a personal model. The process is very simple, like this:
 
 1. visit the [Snowboy website](https://snowboy.kitt.ai/)
 2. Login in with social media
-3. click the Create Hotword and set your Hotword like "how much glasses I drink?" and record your voice
+3. Click the Create Hotword and set your Hotword like "how much glasses I drink?" and record your voice
 4. Test the model and click save and download button. Then you can get pmdl (personal model) files
 
 ### Hardware Components
@@ -115,7 +115,6 @@ You can download them in [here](https://drive.google.com/drive/folders/1hhn2-ccd
 
 ## Laser-cutted customized appearance
 I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on a certain place's condition. In my case,'.DXF file' is needed if you trying to use a laser cutting machine @ IDEA FACTORY.
-<img src = "https://user-images.githubusercontent.com/44702454/86485100-cff47200-bd92-11ea-998d-e77e128b2677.jpg" width="500px">
 
 There were a lot of ways to make a .DXF file. If you are not good at manipulating tools such as AutoCAD, Fusion360 from Autodesk.
 I recommend a very useful [website.](https://en.makercase.com/#/) This website provides a basic model as a **.DXF file.** still, it needs a little modification, but You can make **.DXF file** easier.
@@ -126,10 +125,12 @@ I recommend a very useful [website.](https://en.makercase.com/#/) This website p
 + Check whether the drawing is what expected.
 + Every thing Okay, then click the Download DXF
 + You will get the .DXF file within a few minutes!
++ If you want to modify, open **.DXF file** at AutoCAD or Fusion360 and then modify it as you want.
+
+<img src = "https://user-images.githubusercontent.com/44702454/86588581-eedb4a00-bfc6-11ea-93c2-fd6948b004e2.jpg" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86588437-a3c13700-bfc6-11ea-884b-f7834560fd69.jpg" width="500px">
 
 I especially consider that Jetbot should be attached with lots of lines. so that I made a hole for lines.
 (I attached `Cheersbot(ProductDrawing).dxf` file)
-once, you make .DXF file bring it to laser cutting machine. and Then, run the machine.
+Once, you make **.DXF file** bring it to laser cutting machine. and Then, run the machine.
 
 Then, you will get a separate MDF part. Glue the parts with super glue. 
-
