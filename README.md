@@ -132,6 +132,6 @@ I recommend a very useful [website.](https://en.makercase.com/#/) This website p
 I especially consider that Jetbot should be attached with lots of lines and it carries glass. so that I made two hole for lines and glass.
 
 (I attached `Cheersbot(ProductDrawing).dxf` file. You can check exact values for two holes)
-Once, you make **.DXF file** bring it to laser cutting machine. and Then, run the machine.
+   Once, you make **.DXF file** bring it to laser cutting machine. and Then, run the machine.
 
 Then, you will get a separate MDF part. Glue the parts with super glue. 
