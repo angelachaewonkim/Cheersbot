@@ -113,8 +113,7 @@ You can download them in [here](https://drive.google.com/drive/folders/1hhn2-ccd
 
 ## Laser-cutted customized appearance
 I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on certain place's condition. In my case,'.DXF file' is needed, if you trying to use laser cutting machine @ IDEA FACTORY.
-![KakaoTalk_20200703_234655791_13](https://user-images.githubusercontent.com/44702454/86485100-cff47200-bd92-11ea-998d-e77e128b2677.jpg)
-<img src = "https://user-images.githubusercontent.com/44702454/86485100-cff47200-bd92-11ea-998d-e77e128b2677.jpg" width="700px">
+<img src = "https://user-images.githubusercontent.com/44702454/86485100-cff47200-bd92-11ea-998d-e77e128b2677.jpg" width="500px">
 
 There were lot of ways to make .DXF file. If you are not good at manipulating tool such as AutoCAD,Fusion360 from Autodesk.
 I recommend very usefull [website.](https://en.makercase.com/#/) This welsite provide basic model as .DXF file. still, it needs a little modification, but You can make .DXF file easier.
