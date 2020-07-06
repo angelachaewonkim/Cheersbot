@@ -40,11 +40,11 @@ snowboy provides a personal model. The process is very simple, like this:
 
 ### Software setup
 ### How to download trianed model
-you need to download COCO-trained models
-To detect the hand with various types of glass, we used pre-trained neural network pre-trained on the COCO dataset.
-COCO-dataset is specialized in large-scaled object detection. 
+Instead of building the machine learning model, we used pre-trained SSD MobileNet V2 model to recognize hand with glass. You need to download this model(ssd_mobilenet_v2_coco.engine). 
 
-It includes:
+This model is trained using COCO-dataset: It is the dataset used for large-scaled object detection. It includes 90 kinds of different objects. 
+Among them, we want to recognize two objects:
+
 + index 0- Person
 + index 47- Cup
 + If a hand with glass is in front of camera, then this model can detect it as index 0 or 47.
@@ -114,15 +114,14 @@ You can download them in [here](https://drive.google.com/drive/folders/1hhn2-ccd
 <img src = "https://user-images.githubusercontent.com/44702454/86477550-9f590c00-bd83-11ea-8136-dc7f1abef642.png" width="500px"><img src = "https://user-images.githubusercontent.com/44702454/86477566-a849dd80-bd83-11ea-99ce-cbcc2f99d640.png" width="500px">
 
 ## Laser-cutted customized appearance
-I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on certain place's condition. In my case,'.DXF file' is needed, if you trying to use laser cutting machine @ IDEA FACTORY.
+I use my school's free laser cutting area('IDEA FACTORY' @KAIST) so, This tutorial is totally dependent on a certain place's condition. In my case,'.DXF file' is needed if you trying to use a laser cutting machine @ IDEA FACTORY.
 <img src = "https://user-images.githubusercontent.com/44702454/86485100-cff47200-bd92-11ea-998d-e77e128b2677.jpg" width="500px">
 
-There were lot of ways to make .DXF file. If you are not good at manipulating tool such as AutoCAD,Fusion360 from Autodesk.
-I recommend very usefull [website.](https://en.makercase.com/#/) This welsite provide basic model as .DXF file. still, it needs a little modification, but You can make .DXF file easier.
-I expecially consider that Jetbot should attached with lots of lines. so that I made a hole for lines.
+There were a lot of ways to make a .DXF file. If you are not good at manipulating tools such as AutoCAD, Fusion360 from Autodesk.
+I recommend a very useful [website.](https://en.makercase.com/#/) This website provides a basic model as a .DXF file. still, it needs a little modification, but You can make .DXF file easier.
+I especially consider that Jetbot should be attached with lots of lines. so that I made a hole for lines.
 (I attached `Cheersbot(ProductDrawing).dxf` file)
-once, you make .DXF file bring it to laser cutting machine.and Then, run the machine.
+once, you make .DXF file bring it to laser cutting machine. and Then, run the machine.
 
-Then, you will get a seperate MDF part. Glue the parts with super glue. 
-
+Then, you will get a separate MDF part. Glue the parts with super glue. 
 
